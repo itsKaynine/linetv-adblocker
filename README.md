@@ -7,7 +7,7 @@ An iOS tweak that automatically skip ads in LineTV on a jailbroken device.
 1. Install Theos  
 	[http://iphonedevwiki.net/index.php/Theos/Setup](http://iphonedevwiki.net/index.php/Theos/Setup)
 
-2. Prepare configurations
+2. Prepare configurations (replace `<YOUR_DEVICE_IP>` with your device IP address)
 
 	```
 	$ export THEOS_DEVICE_IP=<YOUR_DEVICE_IP>
